@@ -39,7 +39,7 @@ I bridge the gap between traditional software development and modern AI solution
 
 ###  GitHub Stats
 <div align="center">
-  <img src="https://github.com/joeleldho02/joeleldho02/blob/main/github-metrics.svg" alt="Joel's GitHub Metrics" width="80%">
+  <img src="https://github.com/joeleldho02/joeleldho02/blob/main/github-metrics.svg" alt="Joel's GitHub Metrics" width="50%">
 </div>
 
 <br>

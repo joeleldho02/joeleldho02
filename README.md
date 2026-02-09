@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi%20there,%20I'm%20Joel!%20👋&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20MSc%20Student%20@%20UoB%20Dubai&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Hi%20there,%20I'm%20Joel!%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20MSc%20Student%20@%20UoB%20Dubai&descAlignY=62&descAlign=50" width="100%" />
 </div>
 
 <h3 align="center">
@@ -13,6 +13,24 @@
 
 ---
 
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+---
+
 ### 👨‍💻 About Me
 I am an **M.Sc. Artificial Intelligence & Machine Learning** student at the University of Birmingham Dubai, with a background in **Electrical & Electronics Engineering**. 
 
@@ -22,31 +40,10 @@ I bridge the gap between traditional software development and modern AI solution
 - 🌱 I’m currently learning: **Deep Learning architectures & Cloud AI deployment**
 - 📍 Location: **Dubai, UAE**
 
----
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joeleldho02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeleldho02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
+  <img src="https://github.com/joeleldho02/joeleldho02/blob/main/github-metrics.svg" alt="Joel's GitHub Metrics" width="100%">
 </div>
 
 <br>

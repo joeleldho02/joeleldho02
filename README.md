@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Hi%20there,%20I'm%20Joel!%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20MSc%20Student%20@%20UoB%20Dubai&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Hi%20there,%20I'm%20Joel!%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20MSc%20Student%20@%20UoB%20Dubai&descAlignY=62&descAlign=50" width="100%" />
 </div>
 
 <h3 align="center">
@@ -27,9 +27,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 </p>
-
----
----
 
 ### 👨‍💻 About Me
 I am an **M.Sc. Artificial Intelligence & Machine Learning** student at the University of Birmingham Dubai, with a background in **Electrical & Electronics Engineering**. 

@@ -13,7 +13,6 @@
 
 ---
 
-### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -40,7 +39,7 @@ I bridge the gap between traditional software development and modern AI solution
 
 ###  GitHub Stats
 <div align="center">
-  <img src="https://github.com/joeleldho02/joeleldho02/blob/main/github-metrics.svg" alt="Joel's GitHub Metrics" width="100%">
+  <img src="https://github.com/joeleldho02/joeleldho02/blob/main/github-metrics.svg" alt="Joel's GitHub Metrics" width="80%">
 </div>
 
 <br>
